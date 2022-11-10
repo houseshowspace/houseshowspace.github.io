@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @houseshowspace
 - 👀 I’m interested in developing a digital artist-run space.
-- 🌱 I’m currently learning C++, html, css, javascript.
+- 🌱 I’m currently learning html, css, javascript.
 - 💞️ I’m looking to collaborate on independant artist spaces.
 - 📫 How to reach me: houseshow2022@gmail.com
 
